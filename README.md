@@ -13,7 +13,7 @@ Install greasemonkey first:
 
 https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
-Then, follow link: https://github.com/seletskiy/jira-agile-worklog-helper/raw/master/jira-agile-worklog-helper.user.js
+Then, follow link: https://github.com/d2one/jira-agile-worklog-helper/raw/master/jira-agile-worklog-helper.user.js
 
 Browser will ask you about installation, you've to hit 'Install' button.
 
@@ -22,7 +22,7 @@ Chrome
 
 You will need to clone (or just download zip) repository somewhere:
 
-    git clone git@github.com:seletskiy/jira-agile-worklog-helper.git
+    git clone git@github.com:d2one/jira-agile-worklog-helper.git
 
 Go to extensions panel (chrome://extensions), enable 'Developer mode'
 (top right corner).

@@ -24,6 +24,7 @@
 // @match          http://jira.ngs.local/*
 // @match          http://jira/*
 // @match          http://jira.rn/*
+// @match          http://jira.dev/*
 // @version        3.1
 // @include        http://jira.ngs.local/*
 // @include        http://jira/*
